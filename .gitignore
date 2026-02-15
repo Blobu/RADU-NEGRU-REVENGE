@@ -1,0 +1,12 @@
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+.vscode/
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+Thumbs.db
