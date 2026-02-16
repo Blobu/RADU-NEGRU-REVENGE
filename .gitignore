@@ -3,10 +3,12 @@ Intermediate/
 Saved/
 DerivedDataCache/
 Build/
+pics/
 .vscode/
 .vs/
 *.sln
 *.suo
 *.opensdf
 *.sdf
+*.mp4
 Thumbs.db
